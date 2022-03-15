@@ -2,7 +2,7 @@
 
 RCTADVTD-BST adalah aplikasi web untuk Todo, dibuat dengan menggunakan Node.js, React, Redux, Bootstrap, dan Axios.
 
-Untuk mendownloadnya, kunjungi bagian Release.
+Untuk mendownload source code-nya, kunjungi bagian Releases.
 
 ## Server
 
