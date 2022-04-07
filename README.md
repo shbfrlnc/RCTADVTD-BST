@@ -42,6 +42,10 @@ npm install
 npm start
 ```
 
+## Screencast
+
+- https://www.youtube.com/playlist?list=PLOg7o5N1MDWQhZYgq99Ahd0pmCuGIHRrE
+
 ## Info Tambahan
 
 Traktir Saya:
