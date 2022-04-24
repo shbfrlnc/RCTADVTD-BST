@@ -1,18 +1,22 @@
 # RCTADVTD-BST
- 
-RCTADVTD-BST adalah aplikasi web untuk Todo, dibuat dengan menggunakan Node.js, React, Redux, Bootstrap, dan Axios.
 
-Untuk mendownload source code-nya, kunjungi bagian Releases.
+## Download
+
+Download the project on release page.
+
+## Intro
+
+RCTADVTD-BST a todo app with Node.js, React, Redux, Bootstrap, dan Axios.
 
 ## Server
 
-Rename .env-example menjadi .env, kemudian isi dengan detail yang benar seperti di .env-example.
+Rename .env-example to .env, then fill the details correctly by reffering to .env-example.
 
-Server memerlukan MongoDB terinstall di OS Anda.
+Server needs MongoDB installed on your system.
 
-Pastikan port 3001 tidak sedang digunakan.
+Make sure port 3001 is free.
 
-Untuk menjalankannya:
+To run:
 
 ```
 npm install
@@ -22,7 +26,7 @@ npm install
 npm start
 ```
 
-Atau
+Or:
 
 ```
 npm run dev
@@ -30,9 +34,9 @@ npm run dev
 
 ## Client
 
-Pastikan port 3000 tidak sedang digunakan.
+Make sure port 3000 is free.
 
-Untuk menjalankannya:
+To run:
 
 ```
 npm install
