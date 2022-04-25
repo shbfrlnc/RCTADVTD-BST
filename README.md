@@ -4,6 +4,12 @@
 
 Download the project on release page.
 
+## More Info
+
+Support me, my youtube channel, etc:
+
+- https://shbfrlnc.github.io
+
 ## Intro
 
 RCTADVTD-BST a todo app with Node.js, React, Redux, Bootstrap, dan Axios.
@@ -53,9 +59,3 @@ npm start
 ## Screenshot
 
 ![ScreenShot](assets/RCTADVTD-BST.png?raw=true)
-
-## Info Tambahan
-
-Traktir Saya, Channel YouTube Saya, dan lain-lain:
-
-- https://sociabuzz.com/lsfkrshb
