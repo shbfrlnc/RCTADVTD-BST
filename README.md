@@ -2,27 +2,27 @@
 
 ## Download
 
-Download the project on release page.
+Untuk mendownloadnya, kunjungi halaman Releases.
 
-## More Info
+## Info Lebih Lanjut
 
-Support me, my youtube channel, etc:
+TRAKTIR / WEBSITE / YOUTUBE / TWITTER:
 
 - https://shbfrlnc.github.io
 
 ## Intro
 
-RCTADVTD-BST a todo app with Node.js, React, Redux, Bootstrap, dan Axios.
+RCTADVTD-BST adalah todo app yang dibuat dengan Node.js, React, Redux, Bootstrap, dan Axios.
 
 ## Server
 
-Rename .env-example to .env, then fill the details correctly by reffering to .env-example.
+Rename .env-example menjadi .env, kemudian isi datanya dengan benar sesuai contoh pada .env-example.
 
-Server needs MongoDB installed on your system.
+Server membutuhkan MongoDB terinstall pada sistem operasi.
 
-Make sure port 3001 is free.
+Pastikan port 3001 tidak digunakan.
 
-To run:
+Untuk menjalankannya:
 
 ```
 npm install
@@ -32,7 +32,11 @@ npm install
 npm start
 ```
 
-Or:
+Atau:
+
+```
+npm install
+```
 
 ```
 npm run dev
@@ -40,9 +44,9 @@ npm run dev
 
 ## Client
 
-Make sure port 3000 is free.
+Pastikan port 3000 tidak digunakan.
 
-To run:
+Untuk menjalankannya:
 
 ```
 npm install
