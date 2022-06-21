@@ -56,10 +56,6 @@ npm install
 npm start
 ```
 
-## Screencast
-
-- https://www.youtube.com/playlist?list=PLOg7o5N1MDWQhZYgq99Ahd0pmCuGIHRrE
-
 ## Screenshot
 
 ![ScreenShot](assets/RCTADVTD-BST.png?raw=true)
